@@ -1,4 +1,4 @@
-<img src="./smita.jpg" width="80%" height="80%">  
+<img src="./SmitaAnalyst.jpg" width="80%" height="80%">  
 
 ### Hi there 👋
 
