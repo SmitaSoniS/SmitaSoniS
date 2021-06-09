@@ -1,4 +1,4 @@
-![](smita.jpg)
+<img src="./smita.jpg" width="80%" height="80%">  
 
 ### Hi there 👋
 
