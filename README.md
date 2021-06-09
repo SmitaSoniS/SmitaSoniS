@@ -1,6 +1,7 @@
 <img src="./SmitaAnalyst.jpg" width="80%" height="80%">  
 
 ### Hi there 👋
+I am a Data Analytics enthusiast. My repositories contain Data Analytics Projects and demonstration of programming languages used to perform data analysis.
 
 <!--
 **SmitaSoniS/SmitaSoniS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
