@@ -1,7 +1,7 @@
 <img src="./SmitaAnalyst.jpg" width="80%" height="80%">  
 
 ## :woman_technologist: Hi there!
-I am a Data Analytics enthusiast. My repositories contain Data Analytics Projects, Case Stydy and demonstration of programming languages used to perform data analysis.
+I am a Data Analytics enthusiast. My repositories contain Data Analytics Projects, Case Studies and demonstration of programming languages used to perform data analysis.
 
 ## :woman_technologist: Stack
 ![](https://img.shields.io/badge/Language-SQL-blue) ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange) 
