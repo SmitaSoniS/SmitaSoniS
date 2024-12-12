@@ -1,5 +1,4 @@
-## :woman_technologist: Hi there!
-Hi there! 👋
+## :woman_technologist: Hi there!👋
 I’m a data enthusiast with a strong foundation in statistics, machine learning, and Python programming. I enjoy exploring data, building predictive models, and using analytical techniques to uncover insights and solve problems.
 
 💻 What I Do:
