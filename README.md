@@ -1,56 +1,68 @@
 # 👋 Hi, I'm Smita
 
-I’m an AI and Machine Learning Engineer focused on building intelligent systems from experimentation to production.
+I work at the intersection of Data Science, Machine Learning, and AI Engineering, with a strong interest in building intelligent systems that can move from experimentation to production.
 
-I enjoy understanding how systems work under the hood and building end-to-end machine learning systems that can move beyond experimentation into real-world applications.
+I enjoy understanding not just models, but also the engineering, infrastructure, and system design principles that make real-world AI applications work reliably.
 
-## 🚀 Currently Focused On
+Currently focused on deepening my understanding of machine learning systems, generative AI, and production engineering while continuously building hands-on projects.
+
+## 🚀 What I’m Currently Exploring
 
 * Machine Learning Engineering
-* Deep Learning and Neural Networks
+* Neural Networks and Deep Learning
 * NLP and Large Language Models
 * Retrieval Augmented Generation (RAG)
 * Generative AI Applications
 * AI Agents and Agentic Workflows
 * MLOps and Production Systems
-* AWS and Cloud Infrastructure
+* Cloud Infrastructure for AI Systems
 
-## 🛠 Building Skills In
+## 💻 Experience and Interests
 
-* Python Engineering
-* Docker and FastAPI
-* API Development
-* Model Deployment
-* Monitoring and Evaluation
-* Production ML Systems
-* System Design for AI Applications
+* Data Science and Machine Learning
+* Predictive Modeling and Feature Engineering
+* Statistical Analysis
+* Applied Machine Learning Workflows
+* Building AI-powered applications
+* End-to-end experimentation and deployment workflows
+* Developer environment and systems fundamentals
 
-## 📚 Learning Philosophy
+## 📚 Currently Learning
 
-I believe strong AI engineers should understand not just models, but also the systems, infrastructure, and engineering principles required to make intelligent applications work reliably in production.
+* Advanced Python Engineering
+* Machine Learning System Design
+* Docker and Containerization
+* FastAPI and API Development
+* AWS for Machine Learning Systems
+* Monitoring and Deployment Workflows
+* Productionization of AI Systems
 
 ## ⚙️ Tech Stack
 
-**Languages**
+### Languages
 
-Python | SQL
+Python | SQL | R
 
-**Machine Learning**
+### Data Science & Analytics
 
-Scikit-learn | XGBoost | Model Evaluation | Feature Engineering
+Pandas | NumPy | Matplotlib | Seaborn | Statistics | Data Analysis
 
-**Deep Learning**
+### Machine Learning
 
-PyTorch | Neural Networks | Transformers
+Scikit-learn | XGBoost | Feature Engineering | Model Evaluation | Predictive Modeling
 
-**Generative AI**
+### AI & Generative AI (Learning + Building)
 
 LLMs | RAG | Embeddings | Prompt Engineering | AI Agents
 
-**Engineering**
+### Tools & Engineering
 
-Git | Docker | FastAPI | MLflow | CI/CD
+Git | GitHub | VS Code | Jupyter Notebook | API Development | Docker (Learning) | FastAPI (Learning)
 
-**Cloud**
+### Cloud
 
 AWS (Learning)
+
+## 🌱 Philosophy
+
+I believe strong AI systems are built not only through good models, but also through strong engineering, reproducible workflows, and a deep understanding of the systems running underneath the code.
