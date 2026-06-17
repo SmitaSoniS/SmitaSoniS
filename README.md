@@ -1,36 +1,56 @@
-## :woman_technologist: Hi there!👋
-I’m a data enthusiast with a strong foundation in Statistics, Machine Learning, and Python programming. I enjoy exploring data, building predictive models, and using analytical techniques to uncover insights and solve problems.
+# 👋 Hi, I'm Smita
 
-💻 What I Do:
+I’m an AI and Machine Learning Engineer focused on building intelligent systems from experimentation to production.
 
-- Dive into data to analyze trends and extract meaningful insights.
-- Develop and optimize machine learning algorithms to solve real-world challenges.
-- Leverage statistics to make data-driven decisions and ensure model accuracy.
+I enjoy understanding how systems work under the hood and building end-to-end machine learning systems that can move beyond experimentation into real-world applications.
 
-🚀 What Drives Me:
+## 🚀 Currently Focused On
 
-- A passion for continuous learning in data science and advanced analytics.
-- A goal to apply my skills to create impactful, data-centric solutions.
+* Machine Learning Engineering
+* Deep Learning and Neural Networks
+* NLP and Large Language Models
+* Retrieval Augmented Generation (RAG)
+* Generative AI Applications
+* AI Agents and Agentic Workflows
+* MLOps and Production Systems
+* AWS and Cloud Infrastructure
 
-📈 My Skills:
+## 🛠 Building Skills In
 
-Machine Learning | Statistics | Predictive Modeling | Python | SQL | R | Data Visualization (Matplotlib, Seaborn, etc.) | Data Wrangling | Feature Engineering | Process Optimization | Model Evaluation
+* Python Engineering
+* Docker and FastAPI
+* API Development
+* Model Deployment
+* Monitoring and Evaluation
+* Production ML Systems
+* System Design for AI Applications
 
-## :woman_technologist: Stack
-![](https://img.shields.io/badge/Language-SQL-blue) ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange) ![](https://img.shields.io/badge/Application-MachineLearning-black) ![](https://img.shields.io/badge/Application-DataScience-black) ![](https://img.shields.io/badge/Application-DataAnalytics-black) 
+## 📚 Learning Philosophy
 
+I believe strong AI engineers should understand not just models, but also the systems, infrastructure, and engineering principles required to make intelligent applications work reliably in production.
 
-<!--
-**SmitaSoniS/SmitaSoniS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Tech Stack
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | SQL
+
+**Machine Learning**
+
+Scikit-learn | XGBoost | Model Evaluation | Feature Engineering
+
+**Deep Learning**
+
+PyTorch | Neural Networks | Transformers
+
+**Generative AI**
+
+LLMs | RAG | Embeddings | Prompt Engineering | AI Agents
+
+**Engineering**
+
+Git | Docker | FastAPI | MLflow | CI/CD
+
+**Cloud**
+
+AWS (Learning)
